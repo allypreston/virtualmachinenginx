@@ -30,6 +30,6 @@ NOTE: Bash input line should start with tilde ~$
 1)to start nginx you should type : sudo systemctl start nginx
 NOTE:should come up with a new line in bash command.
 
-## -6 Test= if nginx is working 
+## -6 Test if nginx is working 
 1) run: curl http://localhost
 NOTE: Should return with the nginx home page 
