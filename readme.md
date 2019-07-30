@@ -26,7 +26,7 @@ Feedback should be welcome to ubuntu
 NOTE: Bash input line should start with tilde ~$
 
 
-##-5 Run nginx 
+## -5 Run nginx 
 1)to start nginx you should type : sudo systemctl start nginx
 NOTE:should come up with a new line in bash command.
 
